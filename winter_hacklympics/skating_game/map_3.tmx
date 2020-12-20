@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="45" height="20" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#c0c9f1" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" name="test3" tilewidth="440" tileheight="263" tilecount="18" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="images/test_items/bg.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="images/test_items/flag.png"/>
+  </tile>
+  <tile id="2">
+   <image width="292" height="263" source="images/test_items/podium.png"/>
+  </tile>
+  <tile id="3">
+   <image width="440" height="234" source="images/test_items/rings.png"/>
+  </tile>
+  <tile id="4">
+   <image width="128" height="128" source="images/test_items/snowflake1.png"/>
+  </tile>
+  <tile id="5">
+   <image width="128" height="128" source="images/test_items/snowflake2.png"/>
+  </tile>
+  <tile id="6">
+   <image width="128" height="128" source="images/test_items/snowflake3.png"/>
+  </tile>
+  <tile id="7">
+   <image width="128" height="128" source="images/test_tiles/ice_ledge.png"/>
+  </tile>
+  <tile id="8">
+   <image width="128" height="128" source="images/test_tiles/ice_ledge_left.png"/>
+  </tile>
+  <tile id="9">
+   <image width="128" height="128" source="images/test_tiles/ice_ledge_right.png"/>
+  </tile>
+  <tile id="10">
+   <image width="128" height="128" source="images/test_tiles/ice_left.png"/>
+  </tile>
+  <tile id="11">
+   <image width="128" height="128" source="images/test_tiles/ice_mid.png"/>
+  </tile>
+  <tile id="12">
+   <image width="128" height="128" source="images/test_tiles/ice_right.png"/>
+  </tile>
+  <tile id="13">
+   <image width="128" height="128" source="images/test_tiles/banner3.png"/>
+  </tile>
+  <tile id="14">
+   <image width="292" height="263" source="images/test_items/bandabi.png"/>
+  </tile>
+  <tile id="15">
+   <image width="292" height="263" source="images/test_items/soohorang.png"/>
+  </tile>
+  <tile id="16">
+   <image width="128" height="128" source="images/tiles/boxCrate_double.png"/>
+  </tile>
+  <tile id="18">
+   <image width="165" height="250" source="skate_test/enemy_penguin3.png"/>
+  </tile>
+ </tileset>
+ <layer id="3" name="Decor" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi6QABK8w+oK0bBKBgFo2AUjIJRMApGAaWAZaAdMAoGJeAbYngoAgBCoAKM
+  </data>
+ </layer>
+ <layer id="8" name="Enemy" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1TERADAIADE84N8rBnqdWIBEwK8fAcB1OaQJAC+/53T/aNvfCnS/AGA=
+  </data>
+ </layer>
+ <layer id="2" name="Background" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1bENAEAIAzHE/kOzwn8FCLuO0l4EAFfkkP3vLwC8tKOzL1vbVlNIAA8=
+  </data>
+ </layer>
+ <layer id="1" name="Platforms" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9ACcQMyBA3MNoLvQAcydg8lNtAQcw9SuwQ5A6YxaaWw0XIc/wFd+UqNMJdb8kVIuDmYgCMWDzSxkgC09USvt0NLsUUA9gB5P5MQRLdqNtEjvtAZD0c3cQMwzhDAvEAMAEFMEpg==
+  </data>
+ </layer>
+ <layer id="4" name="Podium" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAIA7CD/Tsb4yhbgiX3TDsAAADwwAI2JAAE
+  </data>
+ </layer>
+ <layer id="5" name="Snowflake1" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJAAAIAzAX/3/ZA1w7iCQPFEppFWT006zrkl3oFbjIN5HagC3BNiJzACQ=
+  </data>
+ </layer>
+ <layer id="6" name="Snowflake2" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1MEJAAAIAzFf7j+yQwgKmkxwnzYCAOCv3A4ARnS3fvUrCjfIABM=
+  </data>
+ </layer>
+ <layer id="7" name="Snowflake3" width="45" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1DERAAAIA7Fu+HeMCq4MiYKfPuHatAMAijwQAP5anFwADw==
+  </data>
+ </layer>
+</map>
